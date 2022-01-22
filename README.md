@@ -1,5 +1,3 @@
-<h1>Flag Viewer</h1>
-
 This is the sixth project from Hacking With Swift [100 days of Swift](https://www.hackingwithswift.com/100) course.
 
 ---
