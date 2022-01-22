@@ -31,7 +31,7 @@ anchors
 ## 🤓 What I learned
 
 * Aspect Ratio
-* Visual Language Format (VFL)
+* Visual Format Language (VFL)
 * Anchors 
 
 ## ⌨ How to use it
